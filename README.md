@@ -7,6 +7,8 @@ Product Name：Elephant Datart
 
 Affected Versions：1.0.0-rc3
 
+Official website：https://github.com/running-elephant/datart
+
 Vulnerability Type: Sensitive Information Leakage / Weak Encryption Configuration
 
 Repetition：
